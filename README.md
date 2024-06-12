@@ -17,5 +17,6 @@
 <br>🥷 <strong>CVE编号[FLIR AX8]:</strong>CVE-2024-3013 
 <br>🥷 <strong>CVE编号[NUUO摄像头]:</strong>CVE-2024-2995
 <br>🥷 <strong>CNVD证书编号[事件型证书:铁塔公司某系统RCE]:</strong>CNVD-2023-96281
+<br>
 
 ![26e9b7da903fac0600af14c5fee422b1](https://github.com/h0e4a0r1t/h0e4a0r1t/assets/48357278/84b608da-9b84-4619-bd79-eecd01cb8e1c)
