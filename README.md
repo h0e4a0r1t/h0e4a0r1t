@@ -12,6 +12,8 @@
 <br>🥷 <strong>CNVD编号[DCN路由器RCE]:</strong>CNVD-2024-25056 
 <br>🥷 <strong>CNVD证书编号[锐捷RG-NBS2026G交换机命令执行]:</strong>CNVD-2024-14840 
 <br>🥷 <strong>CNVD证书编号[锐捷RG-NBS2009G-P未授权访问]:</strong>CNVD-2024-17731
+<br>🥷 <strong>CVE证书编号[Altenergy电力控制软件SQL注入]:</strong>CVE-2024-11305
+<br>🥷 <strong>CVE证书编号[Altenergy电力控制软件信息泄露]:</strong>CVE-2024-11306
 <br>🥷 <strong>CVE编号[指挥调度平台]:</strong> CVE-2024-2566、CVE-2024-2620、CVE-2024-2621、CVE-2024-2622 
 <br>🥷 <strong>CNVD编号[指挥调度平台]:</strong>CNVD-2024-17914、CNVD-2024-17905、CNVD-2024-17922、 2024 CNVD-2024-18114
 <br>🥷 <strong>CVE编号[华视私云-CDN直播加速服务器RCE]:</strong>CVE-2024-5241 
