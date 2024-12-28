@@ -5,6 +5,7 @@
 <br>🥷 <strong>CVE/CNVVD编号[和信创天云桌面系统任意文件上传]:</strong>CVE-2024-3803、CVE-2024-3804、 2024 CNNVD-202404-2136、CNNVD-202404-2155
 <br>🥷 <strong>CNVD编号[中科网威第二代防火墙命令执行]:</strong>CNVD-2024-46119
 <br>🥷 <strong>CVE/CNVVD编号[瑞思康达网关RCE]:</strong>CVE-2024-7467、CVE-2024-7468、CVE-2024-7469、CVE-2024-7470
+<br>🥷 <strong>CNVD编号[维盟wayos防火墙控制系统命令执行]:</strong>CNVD-2024-49483
 <br>🥷 <strong>CVE编号[D-Link文件上传/命令执行]:</strong>CVE-2024-4960、CVE-2024-4961、CVE-2024-4962、CVE- 2024 2024-4963、CVE-2024-4964、CVE-2024-4965
 <br>🥷 <strong>CNVD编号[海康威视安全接入网关任意文件读取]:</strong>CNVD-2024-17184 
 <br>🥷 <strong>CNVD编号[博华网龙信息安全一体机RCE]:</strong>CNVD-2024-27107
