@@ -3,6 +3,7 @@
 
 <br>🥷 <strong>CVE/CNVVD编号[网神SecGate 3600防火墙存在文件上传漏洞]:</strong>CVE-2024-3444、CNNVD- 2024 202404-933、CVE-2024-5050
 <br>🥷 <strong>CVE/CNVVD编号[和信创天云桌面系统任意文件上传]:</strong>CVE-2024-3803、CVE-2024-3804、 2024 CNNVD-202404-2136、CNNVD-202404-2155
+<br>🥷 <strong>CNVD编号[安恒明御安全网关信息泄露漏洞]:</strong>CNVD-2025-00169
 <br>🥷 <strong>CNVD编号[中科网威第二代防火墙命令执行]:</strong>CNVD-2024-46119
 <br>🥷 <strong>CVE/CNVVD编号[瑞思康达网关RCE]:</strong>CVE-2024-7467、CVE-2024-7468、CVE-2024-7469、CVE-2024-7470
 <br>🥷 <strong>CNVD编号[维盟wayos防火墙控制系统命令执行]:</strong>CNVD-2024-49483
